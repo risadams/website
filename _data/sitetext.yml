@@ -2,7 +2,7 @@ header:
     title: Welcome to our Studio!
     text: It's Nice To Meet You
     button: Tell Me More
-    buttonlink: "#services" # "#{section}" or "URL/page link"
+    buttonlink: "#services"
 
 services:
     title: "Services"
@@ -23,6 +23,7 @@ portfolio:
     title: "Portfolio"
     text: "Lorem ipsum dolor sit amet consectetur."
     section: portfolio
+    closebutton: "Close Project"
     
 
 timeline:
@@ -87,7 +88,7 @@ team:
     people:
       - name: "Kay Garland"
         role: "Lead Designer"
-        image: assets/img/team/1.jpg
+        image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -107,7 +108,7 @@ team:
             icon: fab fa-linkedin-in
       - name: "Diana Perterson"
         role: "Lead Developer"
-        image: assets/img/team/3.jpg
+        image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
